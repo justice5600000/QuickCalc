@@ -7,3 +7,4 @@ There are 4 functions add,subtract,divide and multiply
 type any one of those in and it should work
 this same thing pops up if you type "help"
 you dont need to add a number for every promt but just add 0 bc it would crash 
+if you put big numbers it would also crash
